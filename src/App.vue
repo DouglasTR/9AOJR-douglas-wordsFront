@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Header logoText="FIAP Landing Page" />
+    <Header logoText="Douglas Words Front" />
     <router-view />
     <Footer />
   </div>

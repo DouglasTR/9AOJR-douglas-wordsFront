@@ -19,15 +19,6 @@
             Início
           </router-link>
         </li>
-        <li>
-          <router-link 
-            to="/contato" 
-            class="hover:text-blue-200 transition duration-200 pb-1"
-            active-class="border-b-2 border-white"
-          >
-            Contato
-          </router-link>
-        </li>
       </ul>
     </nav>
   </header>

@@ -1,14 +1,8 @@
 <template>
   <section class="banner-gradient text-white py-24">
     <div class="container mx-auto px-4 text-center">
-      <h1 class="text-5xl font-bold mb-4">Bem-vindo à Nossa Landing Page</h1>
-      <p class="text-xl mb-8">Crie experiências incríveis com Vue.js, Vite e Tailwind CSS</p>
-      <router-link 
-        :to="{ path: '/contato', query: { origem: 'banner' } }"
-        class="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition duration-200 inline-block"
-      >
-        Entre em Contato
-      </router-link>
+      <h1 class="text-5xl font-bold mb-4">Seu Vocabulário Tech</h1>
+      <p class="text-xl mb-8">Consulte palavras, definições e casos de uso de forma simples e rápida.</p>
     </div>
   </section>
 </template>
