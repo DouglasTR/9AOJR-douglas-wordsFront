@@ -59,11 +59,14 @@ npm run preview
 - **API (Endpoint):** [https://fiap-bff-doug.onrender.com/ask](https://fiap-bff-doug.onrender.com/ask)
 - **Repositório API:** [GitHub - BFF API](https://github.com/DouglasTR/fiap-bff-doug/tree/06-configure-actions)
 
+## 📊 Lighthouse / Web Vitals
 
-## � Lighthouse / Web Vitals
+**Link Lighthouse:** [Clique aqui para visualizar o relatório completo](https://drive.google.com/file/d/1ZnUq2bFOHf6m6tXm37tXblnHc1RLqC-l/view?usp=drive_link)
 
-**Link Lighthouse:** https://drive.google.com/file/d/1ZnUq2bFOHf6m6tXm37tXblnHc1RLqC-l/view?usp=drive_link
-
+### Métricas Principais (Core Web Vitals):
+- **LCP (Largest Contentful Paint):** Mede o tempo de carregamento. É o tempo que leva para o maior elemento de conteúdo (imagem ou texto) aparecer na tela. O ideal é ser **menos de 2.5s**.
+- **INP (Interaction to Next Paint):** Mede a interatividade. Avalia a latência das interações (cliques, toques, teclado). O ideal é ser **menos de 200ms**.
+- **CLS (Cumulative Layout Shift):** Mede a estabilidade visual. Quantifica o quanto o layout muda inesperadamente durante o uso. O ideal é ser **menos de 0.1**.
 
 ## 👥 Integrantes
 - **Douglas Teixeira Rodrigues - RM364392**
