@@ -60,4 +60,4 @@ npm run preview
 - **Repositório API:** [GitHub - BFF API](https://github.com/DouglasTR/fiap-bff-doug/tree/06-configure-actions)
 
 ## 👥 Integrantes
-- **Douglas Teixeira Rodrigues - RM364392 **
+- **Douglas Teixeira Rodrigues - RM364392**
