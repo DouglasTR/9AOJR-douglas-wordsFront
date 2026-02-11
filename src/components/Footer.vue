@@ -4,8 +4,8 @@
       <div class="flex flex-col md:flex-row justify-between items-center">
         <!-- Copyright -->
         <div class="mb-4 md:mb-0">
-          <p class="text-gray-400">
-            &copy; 2025 FIAP Landing Page. Todos os direitos reservados.
+          <p class="text-sm">
+            &copy; {{ new Date().getFullYear() }} Douglas Words Front. Todos os direitos reservados.
           </p>
         </div>
         
