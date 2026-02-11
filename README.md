@@ -59,5 +59,11 @@ npm run preview
 - **API (Endpoint):** [https://fiap-bff-doug.onrender.com/ask](https://fiap-bff-doug.onrender.com/ask)
 - **Repositório API:** [GitHub - BFF API](https://github.com/DouglasTR/fiap-bff-doug/tree/06-configure-actions)
 
+
+## � Lighthouse / Web Vitals
+
+**Link Lighthouse:** https://drive.google.com/file/d/1ZnUq2bFOHf6m6tXm37tXblnHc1RLqC-l/view?usp=drive_link
+
+
 ## 👥 Integrantes
 - **Douglas Teixeira Rodrigues - RM364392**
